@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Vannamma N A, a creative web designer with over 3 years of experience in building visually appealing, SEO-friendly, and user-centric websites. I specialize in frontend design, website optimization, and Canva-based branding to help businesses enhance their online presence.<br><br>Hello! I'm Vannamma N A, a creative web designer with over 3 years of experience in building visually appealing, SEO-friendly, and user-centric websites. I specialize in frontend design, website optimization, and Canva-based branding to help businesses enhance their online presence.<br><br>Web Design & Frontend Development<br>SEO Optimization & Performance<br>Responsive Design<br>Canva-Based Design
+<br>Hello! I'm Vannamma N A, a creative web designer with over 3 years of experience in building visually appealing, SEO-friendly, and user-centric websites. I specialize in frontend design, website optimization, and Canva-based branding to help businesses enhance their online presence.<br><br>Web Design & Frontend Development<br>SEO Optimization & Performance<br>Responsive Design<br>Canva-Based Design
 
 
 ## 🌐 Socials:
