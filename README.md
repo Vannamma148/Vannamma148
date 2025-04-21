@@ -1,5 +1,45 @@
 # 💫 About Me:
-<br>Hello! I'm Vannamma N A, a creative web designer with over 3 years of experience in building visually appealing, SEO-friendly, and user-centric websites. I specialize in frontend design, website optimization, and Canva-based branding to help businesses enhance their online presence.<br><br>Web Design & Frontend Development<br>SEO Optimization & Performance<br>Responsive Design<br>Canva-Based Design
+
+# Hi there, I'm Vannamma N A 👋  
+🌐 Creative Web Designer | Frontend Developer
+
+---
+
+## 👩‍💻 About Me
+
+Hello! I'm **Vannamma N A**, a creative web designer with over 3 years of experience in building visually appealing, SEO-friendly, and user-centric websites. I specialize in **frontend design**, **website optimization**, and **Canva-based branding** to help businesses enhance their online presence.
+
+---
+
+## 💡 What I Do
+
+- 🎨 **Web Design & Frontend Development**  
+- 🚀 **SEO Optimization & Performance Tuning**  
+- 📱 **Responsive Design** for all screen sizes  
+- 🖌️ **Canva-Based Design** for branding and social media visuals  
+- 🤝 Collaborate closely with clients to turn their ideas into live, effective websites
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages & Technologies:** HTML5, CSS3, JavaScript, Bootstrap  
+- **Design & Branding:** Canva, UI/UX Principles, Image Editing  
+- **Tools & Platforms:** Git, GitHub, CPanel, VS Code, SEO Best Practices  
+- **Development Focus:** Clean code, cross-browser compatibility, performance  
+
+---
+
+## 📌 Featured Projects
+
+### 🌟 [Vannamma Portfolio](https://github.com/Vannamma148/vannamma)  
+Your personal portfolio site built with modern web technologies, hosted via GitHub Pages to showcase your projects, skills, and contact details.
+
+### 🎨 [Creative Portfolio](https://github.com/Vannamma148/creative-portfolio)
+A clean and minimal personal portfolio layout built using HTML and CSS. Showcases design skills with a professional look and feel.
+
+### ✅ [Todofy](https://github.com/Vannamma148/todofy)
+A beautiful and interactive to-do list app featuring a modern UI and custom animated cursor. Great example of creative frontend design.
 
 
 ## 🌐 Socials:
