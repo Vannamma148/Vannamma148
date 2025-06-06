@@ -1,8 +1,5 @@
-
-# 💫 About Me
-
-## 👋 Hi there, I'm Vannamma N A  
-🌐 Creative Web Designer | Frontend Developer
+# 👋 Hi there, I'm Vannamma N A  
+🌐 Creative Frontend Developer | Web Designer
 
 ---
 
