@@ -28,30 +28,6 @@ Hello! I'm **Vannamma N A**, a creative web designer with over 3 years of experi
 
 ---
 
-## 📌 Featured Projects
-
-### 🌟 [React Portfolio](https://github.com/Vannamma148/react-portfolio)  
-A creative and responsive web design portfolio built with React, showcasing my frontend skills, Canva-based branding, SEO-friendly design, and over 3 years of professional experience in modern web development.  
-🔗 [Live Demo](https://vannamma-portfolio.vercel.app/)
-
-### 📄 [AV Docs](https://github.com/Vannamma148/av-docs)  
-A document management app built with React, Tailwind CSS, and Framer Motion, featuring a sleek UI and smooth animations.
-🔗 [Live Demo](https://avdocs-rouge.vercel.app/)
-
-### ☁️ [Cloud Caster](https://github.com/Vannamma148/cloud-caster)  
-A weather forecast app using React and Tailwind CSS, providing real-time weather updates with a clean interface.
-🔗 [Live Demo](https://cloud-caster.vercel.app/)
-
-### 🎨 [RG Buzz](https://github.com/Vannamma148/rg-buzz)  
-An interactive color guessing game developed in React and Tailwind CSS, enhancing user engagement through fun gameplay.  
-🔗 [Live Demo](https://rg-buzz.vercel.app/)
-
-### ✅ [Todofy](https://github.com/Vannamma148/todofy)  
-A beautiful and responsive to-do list application built using HTML, CSS, and JavaScript. This project features a modern UI with a custom animated cursor, allowing users to add and manage tasks easily. It's fully responsive and has a minimal aesthetic.  
-🔗 [Live Demo](https://vannamma148.github.io/todofy/)
-
----
-
 ## 🏢 Client Projects
 
 - **Telespace Networks** – [telespacenetwork.com](https://telespacenetwork.com/)  
@@ -101,8 +77,6 @@ A beautiful and responsive to-do list application built using HTML, CSS, and Jav
 ---
 
 ## 📊 GitHub Stats
-
-![Vannamma148's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vannamma148&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![Vannamma148's Streak Stats](https://streak-stats.demolab.com/?user=Vannamma148&theme=dark&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vannamma148&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
